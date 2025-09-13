@@ -1,0 +1,6 @@
+You had these grades:
+ History: 100
+ Math: 98
+ Fitness: 80
+
+Your average was 92.67
