@@ -1,4 +1,4 @@
-# Day 7 Progress
+# Day 8 Progress
 
 **Date:** 2025-09-15
 
